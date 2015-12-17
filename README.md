@@ -2,7 +2,7 @@
 
 ![Awesome gif](./how_to_gif.gif?raw=true)
 
-**[Check out this blog post for more on information and how to build it.](https://community.havenondemand.com/t5/Blog/IoT-Holiday-Camera-Ornament-using-Face-Detection-Raspberry-Pi/ba-p/2484)**
+**[Check out this blog post for more information and how to build it.](https://community.havenondemand.com/t5/Blog/IoT-Holiday-Camera-Ornament-using-Face-Detection-Raspberry-Pi/ba-p/2484)**
 
 ## What is this IoT holiday camera ornament you speak of?
 This holiday ornament hangs up on whatever festive item you use during the holiday season (e.g. Christmas tree, Menorah, Kinara, etc.). Attached to the ornament is a screen which plays a slideshow on loop of pictures taken of people viewing or posing in front of the tree with a superimposed holiday greeting, so your friends and loved ones will be with you every step of the way throughout the holiday season. Coupled with this is a ring of NeoPixels, powered by a Particle Core, that plays different light shows on loop which can be used as additional ornament or tree topper.
