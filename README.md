@@ -9,14 +9,6 @@ This holiday ornament hangs up on whatever festive item you use during the holid
 ## How does it work?
 The ornament is a Raspberry Pi with a camera module, Wifi dongle, and 3.5 inch display attached to its face. The camera takes pictures at set time intervals of anyone looking, or posing, in front of the tree. It then pushes this image to Haven OnDemand's Face Detection API to validate if there was, infact, a person, or people, in front of the tree. If somone is detected in the image, the image gets sent over to a Node.js server which superimposes a holiday greeting in unique holiday colors and fonts. While it’s doing this, the ring of Neopixels displays a buffering sign so the people getting their picture taken know their image is in the works and will display shortly. Once the new image is finished processing, it gets received by the Raspberry Pi and immediately displays it on the 3.5 inch display and adds it to the looping slideshow of previously taken pictures.
 
-## Libraries/Hardware used used
-* Raspberry Pi
-* Particle Core
-* NeoPixel shield for Particle
-* [PiTFT - Assembled 480x320 3.5" TFT+Touchscreen for Raspberry Pi](http://www.adafruit.com/products/2097)
-* [Raspberry Pi Camera Board](http://www.adafruit.com/products/1367)
-* [Haven OnDemand Face Detection API](https://dev.havenondemand.com/apis/detectfaces#overview)
-
 ## Hardware needed to construct
 * For the Raspberry Pi display ornament:
   * [Raspberry Pi (I used a model B, but you can use any other future version)](https://www.adafruit.com/products/998)
