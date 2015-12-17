@@ -1,4 +1,4 @@
-![Awesome gif](./iot-holiday-camera-ornament/how_to_gif.gif?raw=true)
+![Awesome gif](/iot-holiday-camera-ornament/how_to_gif.gif?raw=true)
 
 # IoT Holiday Camera Ornament
 **[Check out this blog post for more on information and how to build it.](https://community.havenondemand.com/t5/Blog/IoT-Holiday-Camera-Ornament-using-Face-Detection-Raspberry-Pi/ba-p/2484)**
